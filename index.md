@@ -1,5 +1,6 @@
 ## Welcome
 
-Hier gibt es noch ein Problem. Künftige Posts sind in "master" angelegt, angezeigt wird aber der branch "gh-pages". 
+Hier gibt es noch ein Problem, vermutlich aufgrund des Klicks auf ein Theme(?). 
+Jedenfalls sind künftige Posts sind in "master" angelegt, angezeigt wird hier aber der Branch "gh-pages". 
 Wie lösen?, fragt die Git-Pages-Anfängerin ;)
 
