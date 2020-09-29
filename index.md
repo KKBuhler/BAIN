@@ -2,9 +2,7 @@
 title: BAIN?!
 ---
 
-## Hier gibt's Antworten auf viele Fragen.
-
-In diesem Blog schreibe ich über meine Erkenntnisse im Kurs **Bibliotheks- und Archivinformatik**.
+## Meine Erkenntnisse aus dem Kurs **BAIN - Bibliotheks- und Archivinformatik**.
 
 <a href="https://kkbuhler.github.io/BAIN/2020/09/10/prolog.html">Prolog</a>
 <br>
@@ -29,4 +27,4 @@ In diesem Blog schreibe ich über meine Erkenntnisse im Kurs **Bibliotheks- und 
 
 <a href="https://kkbuhler.github.io/BAIN/2020/12/18/tag10.html">10: Linked Data</a>
 
-<a href="https://kkbuhler.github.io/BAIN/2020/12/19/epilog.html">Epilog:</a>
+<a href="https://kkbuhler.github.io/BAIN/2020/12/19/epilog.html">Epilog</a>
