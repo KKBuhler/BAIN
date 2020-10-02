@@ -4,11 +4,9 @@ title: BAIN?!
 
 ## Meine Erkenntnisse aus dem Kurs **BAIN - Bibliotheks- und Archivinformatik**.
 
-<a href="https://kkbuhler.github.io/BAIN/2020/09/10/prolog.html">Prolog</a>
-<p>BAIN?!</p>
+<a href="https://kkbuhler.github.io/BAIN/2020/09/10/prolog.html">Prolog</a> BAIN?!
 
-<a href="https://kkbuhler.github.io/BAIN/2020/09/10/tag1.html">1. Technische Grundlagen</a>
-<p>VIRTUELLE MASCHINE, UBUNTU & SHELL</p>
+<a href="https://kkbuhler.github.io/BAIN/2020/09/10/tag1.html">1. Technische Grundlagen</a> VIRTUELLE MASCHINE, UBUNTU & SHELL
 
 <a href="https://kkbuhler.github.io/BAIN/2020/09/25/tag2.html">2. Funktion und Aufbau von Bibliothekssystemen I</a>
 <p>KOHA & MARC21</p>
