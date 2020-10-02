@@ -4,7 +4,7 @@ title: BAIN?!
 
 ## Meine Erkenntnisse aus dem Kurs **BAIN - Bibliotheks- und Archivinformatik**.
 
-<a href="https://kkbuhler.github.io/BAIN/2020/09/10/prolog.html">Prolog</a> BAIN?!
+<a href="https://kkbuhler.github.io/BAIN/2020/09/10/prolog.html">Prolog</a> BAIN?
 
 <a href="https://kkbuhler.github.io/BAIN/2020/09/10/tag1.html">1. Technische Grundlagen</a> VIRTUELLE MASCHINE, UBUNTU & SHELL
 
@@ -26,4 +26,4 @@ title: BAIN?!
 
 <a href="https://kkbuhler.github.io/BAIN/2020/12/18/tag10.html">10. Linked Data</a>
 
-<a href="https://kkbuhler.github.io/BAIN/2020/12/19/epilog.html">Epilog</a>
+<a href="https://kkbuhler.github.io/BAIN/2020/12/19/epilog.html">Epilog</a> BAIN!
