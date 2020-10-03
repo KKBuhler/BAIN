@@ -10,7 +10,7 @@ title: BAIN?!
 
 <a href="https://kkbuhler.github.io/BAIN/2020/09/25/tag2.html">2. Funktion und Aufbau eines Bibliothekssystems</a> KOHA, MARC21, OAI & CO.
 
-<a href="https://kkbuhler.github.io/BAIN/2020/10/02/tag3.html">3. Weitere Bibliothekssysteme</a> ALEPH, ALMA, FOLIO & CO.
+<a href="https://kkbuhler.github.io/BAIN/2020/10/02/tag3.html">3. Weitere Bibliothekssysteme</a> ALEPH & ALMA
 
 <a href="https://kkbuhler.github.io/BAIN/2020/10/09/tag4.html">4. Funktion und Aufbau von Archivsystemen</a> ARCHIVESSPACE
 
