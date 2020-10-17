@@ -18,7 +18,7 @@ title: BAIN?!
 
 <a href="https://kkbuhler.github.io/BAIN/2020/10/30/tag6.html">6. Repository-Software für Publikationen und Forschungsdaten</a> DSPACE
 
-<a href="https://kkbuhler.github.io/BAIN/2020/11/20/tag7.html">7. Metadaten modellieren und Schnittstellen nutzen</a> EAD, (EV. HIER OAI & CO.?)
+<a href="https://kkbuhler.github.io/BAIN/2020/11/20/tag7.html">7. Metadaten modellieren und Schnittstellen nutzen</a> EAD, ...
 
 <a href="https://kkbuhler.github.io/BAIN/2020/11/27/tag8.html">8. Suchmaschinen und Discovery-Systeme I</a>
 
