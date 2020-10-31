@@ -20,9 +20,9 @@ title: BAIN?!
 
 <a href="https://kkbuhler.github.io/BAIN/2020/11/20/tag7.html">7. Schnittstellen nutzen und Metadaten austauschen</a> OAI, SRU, VUFIND & MARCEDIT
 
-<a href="https://kkbuhler.github.io/BAIN/2020/11/27/tag8.html">8. Suchmaschinen und Discovery-Systeme I</a>
+<a href="https://kkbuhler.github.io/BAIN/2020/11/27/tag8.html">8. Metadaten modellieren</a>
 
-<a href="https://kkbuhler.github.io/BAIN/2020/12/11/tag9.html">9. Suchmaschinen und Discovery-Systeme II</a>
+<a href="https://kkbuhler.github.io/BAIN/2020/12/11/tag9.html">9. Suchmaschinen und Discovery-Systeme</a>
 
 <a href="https://kkbuhler.github.io/BAIN/2020/12/18/tag10.html">10. Linked Data</a>
 
