@@ -8,7 +8,7 @@ title: BAIN?!
 
 <a href="https://kkbuhler.github.io/BAIN/2020/09/10/tag1.html">1. Technische Grundlagen</a> VIRTUELLE MASCHINE, UBUNTU & SHELL
 
-<a href="https://kkbuhler.github.io/BAIN/2020/09/25/tag2.html">2. Funktion und Aufbau eines Bibliothekssystems</a> KOHA & MARC21
+<a href="https://kkbuhler.github.io/BAIN/2020/09/25/tag2.html">2. Funktion und Aufbau eines Bibliothekssystems</a> KOHA, MARC21 & DC
 
 <a href="https://kkbuhler.github.io/BAIN/2020/10/02/tag3.html">3. Weitere Bibliothekssysteme</a> ALEPH & ALMA
 
