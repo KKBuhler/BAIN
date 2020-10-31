@@ -12,7 +12,7 @@ title: BAIN?!
 
 <a href="https://kkbuhler.github.io/BAIN/2020/10/02/tag3.html">3. Weitere Bibliothekssysteme</a> ALEPH & ALMA
 
-<a href="https://kkbuhler.github.io/BAIN/2020/10/09/tag4.html">4. Funktion und Aufbau von Archivsystemen</a> ARCHIVESSPACE & ISAD(G)
+<a href="https://kkbuhler.github.io/BAIN/2020/10/09/tag4.html">4. Funktion und Aufbau von Archivsystemen</a> ARCHIVESSPACE, ISAD(G), RIC & EAD
 
 <a href="https://kkbuhler.github.io/BAIN/2020/10/16/tag5.html">5. Weitere Archivsysteme</a> ATOM & ANTON
 
