@@ -16,7 +16,7 @@ title: BAIN?!
 
 <a href="https://kkbuhler.github.io/BAIN/2020/10/16/tag5.html">5. Weitere Archivsysteme</a> ATOM & ANTON
 
-<a href="https://kkbuhler.github.io/BAIN/2020/10/30/tag6.html">6. Repository-Software für Publikationen und Forschungsdaten</a> DSPACE
+<a href="https://kkbuhler.github.io/BAIN/2020/10/30/tag6.html">6. Repository-Software für Publikationen und Forschungsdaten</a> OPEN DATA & ANWENDUNGEN
 
 <a href="https://kkbuhler.github.io/BAIN/2020/11/20/tag7.html">7. Schnittstellen nutzen und Metadaten austauschen</a> OAI, SRU & VUFINDHARVEST 
 
